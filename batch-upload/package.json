@@ -1,0 +1,25 @@
+{
+  "name": "batch-upload-script",
+  "version": "1.0.0",
+  "description": "Batch upload script for order images to Cloudinary and Supabase",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "upload": "node index.js",
+    "dev": "node --watch index.js",
+    "check": "node check-uploads.js"
+  },
+  "keywords": [
+    "cloudinary",
+    "supabase",
+    "batch-upload"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.0.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.4.1"
+  }
+}
+
