@@ -109,3 +109,7 @@ Trong Netlify, thêm:
 - File `netlify.toml` đã được cấu hình sẵn
 - Nhớ thêm environment variables trong Netlify dashboard
 
+
+
+
+
