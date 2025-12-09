@@ -24,3 +24,12 @@ SELECT * FROM pg_policies WHERE tablename = 'order_images';
 
 
 
+
+
+
+
+
+
+
+
+
